@@ -1,6 +1,0 @@
-workbench,spacesuit,2500c
-workbench,pharmaceutical,4000c
-workbench,cooking,1000c
-workbench,industrial,2500c
-workbench,research,500c
-workbench,weapon,2500c

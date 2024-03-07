@@ -1,9 +1,0 @@
-builder,organic,manufacturer,base,2500c
-builder,organic,manufacturer,commercial,4500c
-builder,organic,manufacturer,industrial,8000c
-builder,organic,flora,base,4000c
-builder,organic,flora,commercial,7500c
-builder,organic,flora,industrial,14000c
-builder,organic,fauna,base,5000c
-builder,organic,fauna,commercial,9500c
-builder,organic,fauna,industrial,18000c
