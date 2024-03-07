@@ -1,0 +1,13 @@
+storage,gas,small,75kg,500c
+storage,gas,medium,150kg,950c
+storage,gas,large,300kg,1800c
+storage,liquid,small,75kg,400c
+storage,liquid,medium,150kg,750c
+storage,liquid,large,300kg,1400c
+storage,solid,small,75kg,300c
+storage,solid,medium,150kg,550c
+storage,solid,large,300kg,1000c
+storage,warehouse,small,75kg,600c
+storage,warehouse,medium,150kg,1150c
+storage,warehouse,large,300kg,2200c
+storage,transfer container,200kg,2500c
