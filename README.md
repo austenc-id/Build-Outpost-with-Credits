@@ -1,31 +1,39 @@
-# Description
+# Build Outposts With Credits
+[Nexus Mod Page](https://www.nexusmods.com/starfield/mods/8569)
 
-It's my opinion that the player being able to handcraft, and mass produce complicated equipment on the fly is just not immersive. This mod aims to make outpost building more like shipbuilding. Expensive, but accessible.
+## Description
 
-With the exceptions of the armillary and commitment gift (which I will not be adding); the current version now includes everything in the build menu.
+It's my opinion that the player being able to handcraft, and mass produce complicated equipment on the fly is not immersive. This mod aims to make outpost building more like shipbuilding. Expensive, but accessible.
 
-I also removed some of the research requirements. I kept research for the complicated pieces of equipment as a sort of "you need to be certified before we can sell this to you," kind of thing, but I removed the decor projects all together and removed all research requirements for:
-storage containers,
-advanced versions of the solar and wind power sources,
-inter-system cargo link,
-all furniture,
-all decor,
-and all displays.
+This mod changes the building requirements for every item (with the exception of quest items like the armillary and commitment gifts) from resources to credits.
 
+It does this by overwriting the vanilla constructable object records so any mods that edit those records will need a patch to work properly. This also means with this mod installed you cannot build using resources at all. I did this to avoid the cluttering the build menu with a second entry for every single item.
+
+I also removed some of the research requirements as well as the "outpost decoration" research projects all together. Storage containers, advanced versions of the solar and wind power generators, inter-system cargo link, all furniture, all decor, and all displays no longer require research to complete.
+
+I kept research for the complicated pieces of equipment as a sort of "you need to be certified before we can sell this to you," kind of thing.
 
 I did not touch any quest-related or global value conditions.
 
-Patches:
+## Future Plans
 
-Included in FOMOD installer:
-SenterPat's Lower Land Pad
-Recluse's Outpost Trade Kiosk
+I would like to eventually have the Commerce Perk affect these prices, but as of right now the only way I could do this would be incredibly tedious. 
 
-Created but waiting for author's permission to upload:
-remosito's Magnus the Magnate's Outpost Production Shenanigans - Sorters Splitters Skimmers Sellers
-Talismancer's Constellation Signage and posters
+I would also like to make the prices higher the further away the outpost is from "civilization."
 
-#Changelog
+## Patches
+
+### Included in FOMOD installer:
+
+SenterPat's [url=http://www.nexusmods.com/starfield/mods/8363]Lower Land Pad[/url]
+Recluse's [url=https://www.nexusmods.com/starfield/mods/6936]Outpost Trade Kiosk[/url]
+remosito's [url=http://www.nexusmods.com/starfield/mods/6753]Magnus the Magnate's Outpost Production Shenanigans[/url]
+
+### Created but waiting for author's permission to upload:
+
+Talismancer's [url=http://www.nexusmods.com/starfield/mods/8241]Constellation Signage and posters[/url]
+
+## Changelog
 
 Version 1.5.2
 Add patches for Magnus the Magnate's Outpost Production Shenanigans
