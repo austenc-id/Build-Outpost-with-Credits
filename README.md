@@ -21,7 +21,7 @@ I would like to eventually have the Commerce Perk affect these prices, but as of
 
 I would also like to make the prices higher the further away the outpost is from "civilization."
 
-## Patches
+## Patches and Credits
 
 ### Included in FOMOD installer:
 
@@ -32,6 +32,10 @@ remosito's [url=http://www.nexusmods.com/starfield/mods/6753]Magnus the Magnate'
 ### Created but waiting for author's permission to upload:
 
 Talismancer's [url=http://www.nexusmods.com/starfield/mods/8241]Constellation Signage and posters[/url]
+
+### Credits
+
+Thank you to [url=https://www.nexusmods.com/users/167469/]ElminsterAU and the xEdit Team[/url] for [url=https://www.nexusmods.com/starfield/mods/239]SF1Edit[/url]
 
 ## Changelog
 
