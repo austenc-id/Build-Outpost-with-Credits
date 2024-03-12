@@ -21,13 +21,11 @@ I would like to eventually have the Commerce Perk affect these prices, but as of
 
 I would also like to make the prices higher the further away the outpost is from "civilization."
 
-[heading]Patches and Credits[/heading]
+[heading]Patches Available[/heading]
 Included in FOMOD installer:
 SenterPat's [url=http://www.nexusmods.com/starfield/mods/8363]Lower Land Pad[/url]
 Recluse's [url=https://www.nexusmods.com/starfield/mods/6936]Outpost Trade Kiosk[/url]
 remosito's [url=http://www.nexusmods.com/starfield/mods/6753]Magnus the Magnate's Outpost Production Shenanigans[/url]
-
-Created but waiting for author's permission to upload:
 Talismancer's [url=http://www.nexusmods.com/starfield/mods/8241]Constellation Signage and posters[/url]
 
 [heading]Credits[/heading]
