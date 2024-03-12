@@ -1,4 +1,4 @@
-# Build Outposts With Credits
+# Build Outposts with Credits
 [Nexus Mod Page](https://www.nexusmods.com/starfield/mods/8569)
 
 [heading]Description[/heading]
