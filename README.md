@@ -32,6 +32,8 @@ Talismancer's [url=http://www.nexusmods.com/starfield/mods/8241]Constellation Si
 Thank you to [url=https://www.nexusmods.com/users/167469/]ElminsterAU and the xEdit Team[/url] for [url=https://www.nexusmods.com/starfield/mods/239]SF1Edit[/url]
 
 ## Changelog
+Version 1.5.3
+Added patch for Constellation Signage and Posters
 
 Version 1.5.2
 Add patches for Magnus the Magnate's Outpost Production Shenanigans
